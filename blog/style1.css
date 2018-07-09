@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+}
+form{
+    text-align: center;
+    padding: 100px;
+    margin-bottom: 50px;
+}
+footer{
+    text-align: center;
+}
+.form-item{
+    width: 700px;
+}
